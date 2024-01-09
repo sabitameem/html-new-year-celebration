@@ -136,3 +136,24 @@ header {
  .offer .offer-img{
     border: none;
 }
+
+
+.footer {
+  height: 300px;
+  padding: 0 50px;
+  background: black;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.footer p,h6{
+  font-size: 20px;
+  padding: 20 100px;
+}
+
+.fa-solid{
+   padding-right: 10px;
+   padding-top: 10px;
+}
